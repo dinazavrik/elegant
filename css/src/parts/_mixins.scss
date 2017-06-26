@@ -1,0 +1,8 @@
+@mixin hr-line() {
+    border: none;
+    width: 86px;
+    height: 2px;
+	margin-bottom: 44px;
+    color: $white-color;
+    background-color: $white-color;
+}
